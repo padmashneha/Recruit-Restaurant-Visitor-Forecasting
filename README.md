@@ -13,11 +13,13 @@ The dataset comprises a combination of reservation and visitation data, offering
 
 ## Dataset Components
 
-* **Hot Pepper Gourmet Data:**
+**Hot Pepper Gourmet Data:**
 Provides insights from a restaurant review service, giving information about customer preferences and ratings.
-* **AirREGI Data:**
+
+**AirREGI Data:**
 Contains data from the restaurant point-of-sale service, offering details on transactions and sales.
-* **Restaurant Board Data:**
+
+**Restaurant Board Data:**
 Includes reservation log management data, allowing us to understand booking patterns and customer arrival trends.
 
 ## Challenge
