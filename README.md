@@ -7,13 +7,13 @@ Running a successful restaurant involves more than just creating delicious dishe
 
 The primary objective of this project is to use reservation and visitation data to predict the total number of visitors a restaurant can expect for future dates. This predictive model will be a valuable tool for restaurant owners and managers, enabling them to plan and allocate resources effectively. The dataset provided includes information from various Recruit Holdings services, including Hot Pepper Gourmet (a restaurant review service), AirREGI (a restaurant point of sales service), and Restaurant Board (reservation log management software).
 
-Data Overview
+## Data Overview
 
 The dataset comprises a combination of reservation and visitation data, offering a comprehensive view of customer behavior. Understanding and analyzing this data is essential for building an accurate forecasting model. The features include information about reservations, time of day, dates, and potentially other relevant factors that influence restaurant attendance.
 
-Dataset Components
+## Dataset Components
 
-Hot Pepper Gourmet Data:
+** Hot Pepper Gourmet Data: **
 Provides insights from a restaurant review service, giving information about customer preferences and ratings.
 AirREGI Data:
 Contains data from the restaurant point-of-sale service, offering details on transactions and sales.
