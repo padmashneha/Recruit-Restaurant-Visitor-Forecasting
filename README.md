@@ -1,9 +1,9 @@
-# Recruit-Restaurant-Visitor-Forecasting
+# Recruit Restaurant Visitor Forecasting
 
 
 Running a successful restaurant involves more than just creating delicious dishes and providing excellent service. One of the challenges that restaurants face is predicting the number of customers they can expect on any given day. This prediction is crucial for efficient ingredient procurement, staff scheduling, and overall business planning. The Restaurant Visitor Forecasting project aims to address this challenge by leveraging key datasets provided by Recruit Holdings.
 
-Problem Statement
+## Problem Statement
 
 The primary objective of this project is to use reservation and visitation data to predict the total number of visitors a restaurant can expect for future dates. This predictive model will be a valuable tool for restaurant owners and managers, enabling them to plan and allocate resources effectively. The dataset provided includes information from various Recruit Holdings services, including Hot Pepper Gourmet (a restaurant review service), AirREGI (a restaurant point of sales service), and Restaurant Board (reservation log management software).
 
