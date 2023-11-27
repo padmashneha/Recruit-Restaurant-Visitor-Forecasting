@@ -35,9 +35,11 @@ The models will be evaluated based on their ability to predict the total number 
 To get started with the Restaurant Visitor Forecasting project, follow these steps:
 
 1. Clone the Repository:
+
 ```
 git clone https://github.com/your-username/restaurant-forecasting.git
 ```
+
 1. Install Dependencies:
 ```
 pip install -r requirements.txt
