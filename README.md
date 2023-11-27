@@ -13,21 +13,22 @@ The dataset comprises a combination of reservation and visitation data, offering
 
 ## Dataset Components
 
-** Hot Pepper Gourmet Data: **
+* **Hot Pepper Gourmet Data:**
 Provides insights from a restaurant review service, giving information about customer preferences and ratings.
-AirREGI Data:
+* **AirREGI Data:**
 Contains data from the restaurant point-of-sale service, offering details on transactions and sales.
-Restaurant Board Data:
+* **Restaurant Board Data:**
 Includes reservation log management data, allowing us to understand booking patterns and customer arrival trends.
-Challenge
+
+## Challenge
 
 Predicting restaurant attendance is a complex task due to various unpredictable factors, such as weather and local competition. Additionally, newer restaurants with limited historical data face additional challenges. Participants in this competition are encouraged to develop innovative machine learning models that effectively utilize the provided datasets to forecast future customer numbers accurately.
 
-Evaluation
+## Evaluation
 
 The models will be evaluated based on their ability to predict the total number of visitors to a restaurant for future dates. The evaluation metrics will be provided in the competition guidelines, and participants are encouraged to fine-tune their models for optimal performance.
 
-Getting Started
+## Getting Started
 
 To get started with the Restaurant Visitor Forecasting project, follow these steps:
 
