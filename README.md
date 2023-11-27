@@ -40,17 +40,17 @@ To get started with the Restaurant Visitor Forecasting project, follow these ste
 git clone https://github.com/your-username/restaurant-forecasting.git
 ```
 
-1. Install Dependencies:
+2. Install Dependencies:
 ```
 pip install -r requirements.txt
 ```
-1. Explore the Data:
+3. Explore the Data:
 Familiarize yourself with the dataset by exploring the provided notebooks in the notebooks directory.
 
-1. Build Your Model:
+4. Build Your Model:
 Use the template notebooks as a starting point to develop and train your machine learning model.
 
-1. Submit Your Solution:
+5. Submit Your Solution:
 Follow the submission guidelines in the competition documentation to submit your predictions.
 
 Important Links
