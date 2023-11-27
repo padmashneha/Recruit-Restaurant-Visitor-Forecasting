@@ -53,7 +53,7 @@ Use the template notebooks as a starting point to develop and train your machine
 5. Submit Your Solution:
 Follow the submission guidelines in the competition documentation to submit your predictions.
 
-Important Links
+### Important Links
 * [Competition Page](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 * [Dataset Download](https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting/data)
 
