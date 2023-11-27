@@ -34,22 +34,24 @@ The models will be evaluated based on their ability to predict the total number 
 
 To get started with the Restaurant Visitor Forecasting project, follow these steps:
 
-Clone the Repository:
-bash
-Copy code
+1. Clone the Repository:
+```
 git clone https://github.com/your-username/restaurant-forecasting.git
-Install Dependencies:
-bash
-Copy code
+```
+1. Install Dependencies:
+```
 pip install -r requirements.txt
-Explore the Data:
+```
+1. Explore the Data:
 Familiarize yourself with the dataset by exploring the provided notebooks in the notebooks directory.
-Build Your Model:
-Use the template notebooks as a starting point to develop and train your machine learning model.
-Submit Your Solution:
-Follow the submission guidelines in the competition documentation to submit your predictions.
-Important Links
 
+1. Build Your Model:
+Use the template notebooks as a starting point to develop and train your machine learning model.
+
+1. Submit Your Solution:
+Follow the submission guidelines in the competition documentation to submit your predictions.
+
+Important Links
 Competition Page
 Dataset Download
 Acknowledgments
