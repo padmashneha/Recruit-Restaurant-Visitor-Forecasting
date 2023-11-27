@@ -54,15 +54,8 @@ Use the template notebooks as a starting point to develop and train your machine
 Follow the submission guidelines in the competition documentation to submit your predictions.
 
 Important Links
-Competition Page
-Dataset Download
-Acknowledgments
+* (Competition Page)[https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting]
+* (Dataset Download)[https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting/data]
+
 
 This project is made possible by Recruit Holdings, which has generously provided access to key datasets. We appreciate the opportunity to work on a real-world problem that can have a significant impact on the restaurant industry.
-
-Contributors
-
-Your Name
-Contributor 1
-Contributor 2
-Feel free to contribute to the project by submitting pull requests, reporting issues, or suggesting improvements. Together, we can make restaurant forecasting more accurate and beneficial for businesses.
